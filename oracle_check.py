@@ -3,7 +3,7 @@
 # oracle_check
 # v1.0
 #
-# Maintainer: Bogdan Tsikhanovskyi (bogdan.tsikhanovskyi@gettyimages.com)
+# Maintainer: Bogdan redhootcp@gmail.com 
 #
 # Check for oracle databases.
 
